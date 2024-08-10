@@ -1,2 +1,2 @@
 @Linus-J
-- Interested in statistical algorithms.
+- Interested in statistical algorithms 📈
